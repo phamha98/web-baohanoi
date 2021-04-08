@@ -1,0 +1,23 @@
+@charset "utf-8";
+.container-sub {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  background: #0c6;
+}
+
+.image img {
+  width: 100%;
+  height: 200px;
+}
+.image a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  text-shadow: 2px 2px #000;
+}
+.footer {
+  background-color: #eff3d0;
+}
+.footer a {
+  text-decoration: none;
+}

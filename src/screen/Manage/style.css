@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.content-manage{
+  width: 100%;
+}
+.button{
+  float: left;
+  margin: 10px;
+  margin-top: 30px;
+}
+.parent{
+  min-width: 250px;
+}
+.children{
+  min-width: 240px;
+}

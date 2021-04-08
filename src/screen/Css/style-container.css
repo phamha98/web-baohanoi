@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.margin-top1{
+  margin-top: 5px;
+}
+.cle {
+  clear: both;
+}
+.left{
+  width: 300px;
+  float: left;
+}
+.right {
+  width: 700px;
+  float: left;
+}
